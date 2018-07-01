@@ -20,8 +20,8 @@ function makeGrid(rows, columns) {
 //use the .submit method
 
   $('form').submit(function(event){
-    let rows = $('input#inputHeight').val();
-    let columns = $('input#inputWeight').val();
+    let rows = $('input #inputHeight').val();
+    let columns = $('input #inputWeight').val();
 
     // clears the DOM to append the next <tr><td>
     $('tr').remove();
