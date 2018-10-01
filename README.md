@@ -7,9 +7,11 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, unbundle the files into your local machine and load up the **index.html** file into your browser.
+* Select Grid Height and Grid width of any number you chose.
+* You can select a color, then click on the _Submit_ button.
+* A grid of squares would appear on the page, click on any box on the grid and it gets selected with the color specified.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Contributing
 
